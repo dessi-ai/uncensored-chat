@@ -53,4 +53,4 @@ Contributions to improve the project are welcome. Please adhere to standard open
 
 If you use this project in your research or project, please cite it as follows:
 
-- Original model: [Generate Images](https://dessi.co). Sign up now and integrate NSFW Model into your mobile or web apps or build a cool new AI systems.
+- Original model. Sign up now and integrate [NSFW Model](https://dessi.co) into your mobile or web apps or build a cool new AI systems.
